@@ -1,0 +1,38 @@
+[
+  {
+    "guid": {
+      "a": "2d9bf6fe-88ab-154b-0a6f-9f8831a0517b",
+      "b": ""
+    },
+    "extraType": "ResItemFbxAsset",
+    "name": "Sheep_Model",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Model",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "assetPackageID": "7285468846192852994",
+    "importAnimation": true,
+    "importVertexColor": false,
+    "importBlendshape": true,
+    "importNormalTangentBinormal": true,
+    "regenerateNormalTangentBinormal": true,
+    "materialsGUIDs": [],
+    "meshGUIDs": [
+      "5567053c-3cdf-fa13-0507-3b94560f2a87",
+      "cf849cc3-bed1-820f-1d61-6596839e2353",
+      "a6bf6a23-372c-d0b5-4766-10ea4ce2fd26",
+      "cbe54af2-de86-72b3-2d30-24da1e59654d",
+      "db5e98c5-d3a2-e8c2-b1a0-8690da3e3e04",
+      "48488a19-4b80-feb3-2712-147d52e272d3",
+      "5302a2e6-303a-0ff5-2da4-addc5c8d35c2",
+      "abf32239-764c-1dbf-7c0f-ed99bd2dd685",
+      "2f804080-ffc5-e516-230d-16c8d6aa5b8c",
+      "6d452cc1-1c96-4338-261f-a542dbb1a59a",
+      "5490cbc0-d58f-dda8-a7bc-df9ccb0bf101",
+      "4c3e23ac-b351-6b44-8d0d-dff07c340d28"
+    ],
+    "animazGUIDs": []
+  }
+]

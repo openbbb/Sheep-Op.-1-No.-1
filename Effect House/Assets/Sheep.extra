@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "5eb7bf78-6115-80e7-6259-a095c8679e68",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "Sheep",
+    "expandInPanel": false,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

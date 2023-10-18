@@ -1,0 +1,28 @@
+[
+  {
+    "guid": {
+      "a": "dc8fbf49-fb45-f644-e728-b08ce1955718",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "Sheep_Albedo",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "assetPackageID": "7285468846192852994",
+    "compressionType": 1,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false
+  }
+]
